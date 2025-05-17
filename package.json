@@ -1,0 +1,15 @@
+{
+  "name": "ejs-project",
+  "version": "1.0.0",
+  "description": "A full-featured concert event management system built with **Node.js**, **Express**, and **MongoDB**. It includes role-based access control for users and admins, ticket booking, reviews, categories, and more.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
